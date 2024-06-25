@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\images",
+    "\\src\\components",
+    "\\src\\context",
+    "\\src\\data",
+    "\\src\\examples",
+    "\\src\\layouts"
+  ],
+  "SelectedNode": "\\src\\context\\index.js",
+  "PreviewInSolutionExplorer": false
+}
